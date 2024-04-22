@@ -1,0 +1,9 @@
+We were a team of 2 and have done our best to reach the LOC requirements.
+We were a team of 3 on paper much of the semester, however we were notified 
+that our member dropped right before the semester ended. We also worked as a
+team of 2 from the start of the semester. However, tt was hard to adjust
+our workload as we were told from our 3rd member that she was ready to fully 
+commit. So this last minute decision to drop made us work harder to get to the 
+LOC and we hope that our project will be graded with this in mind.
+
+Our .ml and .mli files are in folders "src", "test", "bin".

@@ -1,0 +1,4 @@
+(library
+ (name cards)
+ (public_name Quizlet)
+ (libraries yojson ANSITerminal))

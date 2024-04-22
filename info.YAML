@@ -1,0 +1,26 @@
+---
+# Members of your group.
+group:
+  - name: Leah Liu
+    netid: lsl89
+  - name: Amber Cao
+    netid: ac2332
+# Your PM.
+pm:
+  name: Oluchi Okorafor
+  netid: oco6
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Quizlet"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/lsl89/3110project-fa23"
+# If you have no demo screencast, replace the url string with an empty string ""
+
+desc: >
+  This project simulates a Quizlet flashcard exercise that allows the user to
+  create flashcards and then use them to quiz themselves. One game the user 
+  could play could be typing out what they remember for a flashcard until 
+  they get it right, with every round having only flashcards that they missed
+  in the previous rounds. The user can also add and delete flashcards from their
+  deck and create new decks to organize their flashcards.
