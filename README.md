@@ -1,4 +1,5 @@
 # 3110project-fa23
+This was a project made in CS3110 Functional Programming.
 
 Team Members: Leah Liu (lsl89), Amber Cao (ac2332)
 
